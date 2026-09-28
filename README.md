@@ -1,2 +1,5 @@
 # Bscs26063_ProductWebsite
-I made this website of lily bouquets. I started with the home page, then did the products and then the contact us page in html and afterwards I added the styling with CSS. Lastly, I used JavaScript to make it interactive.
+This is a simple lily bouquet website that I created using HTML, CSS, and JavaScript. I used HTML to create the structure and different pages, CSS to design the website and give it a dark lily-themed look, and JavaScript to add some interaction.
+
+I created separate Home, Products, and Contact Us pages and connected them through the navigation bar. I also added images, buttons, product sections, and a contact form to make the website more complete and interactive.
+
